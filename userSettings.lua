@@ -1,0 +1,21 @@
+userSettings = {
+    ["Marten"] = {
+        ["AdobePdfReader"] = "C:\\Program Files (x86)\\Adobe\\Reader 10.0\\Reader\\AcroRd32.exe",
+        ["editFrameIsMaximized"] = false,
+        ["editFrameSash1Pos"] = 382,
+        ["editFrameSash2Pos"] = 382,
+        ["editFrameSize_Height"] = 610,
+        ["editFrameSize_Width"] = 1175,
+        ["editFrameXPos"] = 384,
+        ["editFrameYPos"] = 165,
+        ["lastUsed"] = "04/25/18 21:33:17",
+        ["mainFrameIsMaximized"] = false,
+        ["mainFrameSize_Height"] = 632,
+        ["mainFrameSize_Width"] = 864,
+        ["mainFrameXPos"] = 808,
+        ["mainFrameYPos"] = 137,
+        ["mainSplitterSashPos"] = 424,
+        ["packagePath"] = "C:\\Test",
+        ["zipToolPath"] = "",
+    },
+}

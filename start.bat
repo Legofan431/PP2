@@ -1,0 +1,1 @@
+start "" "%~dp0wxLua.exe" "%~dp0Auslieferungsassistent.wx.lua"
